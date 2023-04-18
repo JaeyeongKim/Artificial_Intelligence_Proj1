@@ -20,7 +20,8 @@ Naive Bayes is a simple technique for constructing classifiers: models that assi
   + In the test step, each input line is classified with the probability calculated in the training step
   + Finally, return the Accuracy.
     + The Accuracy is as follows
-
+    ![1_qy2auh3Qb17ieiVVvGki2A](https://user-images.githubusercontent.com/54938092/232772123-1b5566bf-689e-4b82-8bac-9d88c8b65776.png)
+    ![1_h0y8Al2ojwfurAQAQEsJKw](https://user-images.githubusercontent.com/54938092/232772132-e32275c7-387e-4322-bde7-3b70a605a2d8.png)
 
 + Function Learning Curve
   + If you store the results of the NBC function and pass them to the Learning Curve function in the form of an list, it is a function that draws the Learning Curve
