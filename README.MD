@@ -1,1 +1,3 @@
-+ # NBC Classifier
+# Naive Bayes classifier
+
+--------------------------------------
